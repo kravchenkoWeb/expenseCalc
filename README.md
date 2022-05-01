@@ -1,3 +1,5 @@
+https://kravchenkoweb.github.io/expenseCalc/
+
 # expense-tracker
 
 ## Project setup
