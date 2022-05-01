@@ -1,4 +1,4 @@
-https://kravchenkoweb.github.io/expenseCalc/
+https://kravchenkoweb.github.io/expenseCalc/dist
 
 # expense-tracker
 
